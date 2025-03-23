@@ -23,6 +23,7 @@ When working at one of the biggest industrial players in Europe (Airbus), you re
 The company investments are there... The problem arises when the replacement of legacy ways of working impact downstream processes. Then, the replacement is not urgent (even sometimes not desirable as it might affect deliveries). This means that the digital transformation results are being slow.
 
 Based on this problem, I can think of two possibilities to start building:
+
 - **Educational product**
 
 As a result of the slow digitalisation in the industrial players, more than 90% of the workforce is still blind about its potential impact. The upskilling is slow and the managers don't have visibility on which of their workers are really capable to create more value. At some point, the exponential growth of AI will make those digital roles able to create significant more impact that those who lag behind. Will companies let the second group out, or will they urge for their upskilling? If the second is the option, then there is a clear market in upskilling industrial workforce. Also, universities have a slow adoption of digital skills (I remember learning FORTRAN in 2014... Was it the best tool? Python was already out there). Recent graduates will be willing to invest some of their money to level up their skills to match what would be needed in the industry.
