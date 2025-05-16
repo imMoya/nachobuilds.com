@@ -83,3 +83,4 @@ plugins:
      categories_allowed:
         - python
         - personal
+        - spontanets
